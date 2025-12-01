@@ -300,7 +300,8 @@ Cache evictions: 23
 
 ## Authors
 
-[Your Name]
+[Jayden Brown,
+Brock Caston]
 Operating Systems Course - Fall 2025
 
 ## License
