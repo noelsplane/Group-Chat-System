@@ -1,0 +1,6 @@
+[2025-12-01 13:48:53] Connected to server at 127.0.0.1
+[2025-12-01 13:49:08] Connected to server at 127.0.0.1
+[2025-12-01 13:49:25] Joining group 1
+[2025-12-01 13:49:36] Sent message to group 1: Hello!
+[2025-12-01 13:49:57] Joining group 1
+[2025-12-01 13:50:04] Sent message to group 1: Hi there!

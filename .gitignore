@@ -1,0 +1,19 @@
+# Build directory
+build/
+
+# Compiled binaries
+*.exe
+*.o
+*.out
+chat_server
+chat_client
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db

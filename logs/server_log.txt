@@ -1,0 +1,11 @@
+[2025-12-01 13:48:09] Using Round Robin scheduling
+[2025-12-01 13:48:09] Server listening on port 8080
+[2025-12-01 13:48:53] UserID:1 IP:client_ip New client connected
+[2025-12-01 13:49:08] UserID:2 IP:client_ip New client connected
+[2025-12-01 13:49:25] UserID:1 IP:client_ip Client joined group 1
+[2025-12-01 13:49:36] UserID:1 IP:client_ip Broadcasting message to client 1
+[2025-12-01 13:49:36] UserID:1 IP:client_ip Message received for group 1: Hello!
+[2025-12-01 13:49:57] UserID:2 IP:client_ip Client joined group 1
+[2025-12-01 13:50:04] UserID:2 IP:client_ip Broadcasting message to client 2
+[2025-12-01 13:50:04] UserID:2 IP:client_ip Broadcasting message to client 1
+[2025-12-01 13:50:04] UserID:2 IP:client_ip Message received for group 1: Hi there!
