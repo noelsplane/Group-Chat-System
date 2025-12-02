@@ -304,6 +304,4 @@ Cache evictions: 23
 Brock Caston]
 Operating Systems Course - Fall 2025
 
-## License
 
-This project is for educational purposes only.
