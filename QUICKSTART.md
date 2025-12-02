@@ -143,42 +143,6 @@ The current code uses POSIX sockets. For Windows:
 ✅ **Binary Protocol**: ChatPacket with network byte order  
 ✅ **Interrupts**: Signal handling for graceful shutdown  
 
-## Grading Rubric Coverage
-
-| Section | Points | Status |
-|---------|--------|--------|
-| Design Document | 20 | ✓ README.md |
-| Text Messaging System | 20 | ✓ Multi-group support |
-| Scheduling Implementation | 15 | ✓ RR + SJF |
-| Synchronization + Threads | 15 | ✓ Thread pool + mutexes |
-| Caching Implementation | 10 | ✓ LRU with TTL |
-| Logging & File I/O | 5 | ✓ Comprehensive logging |
-| Binary Protocol | 5 | ✓ ChatPacket structure |
-| Performance Report | 10 | ✓ Stats tracking |
-| **Total** | **100** | **All Complete** |
-
-## Tips for Presentation (Dec 2)
-
-1. **Practice the demo** - Make sure server and clients work smoothly
-2. **Have data ready** - Run tests to get real performance numbers
-3. **Know your code** - Be ready to explain any implementation detail
-4. **Show logs** - Demonstrate the logging system works
-5. **Explain trade-offs** - Why RR vs SJF, LRU vs other caching
-6. **Time management** - 10-15 min presentation, 5 min Q&A
-
-## Common Issues & Solutions
-
-**Issue**: Compilation errors about missing headers  
-**Solution**: Make sure you're on Linux/macOS/WSL, or modify for Windows
-
-**Issue**: Port already in use  
-**Solution**: Use a different port: `./chat_server 9000`
-
-**Issue**: Permission denied  
-**Solution**: `chmod +x chat_server chat_client`
-
-**Issue**: Can't connect to server  
-**Solution**: Check firewall, make sure server is running first
 
 ## Resources
 
